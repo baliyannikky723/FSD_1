@@ -7,7 +7,7 @@
 }
 
 /* Header section */
-.header {
+.header{
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -15,7 +15,7 @@
   margin-bottom: 2rem;
 }
 
-.logo-section {
+.logo-section{
   display: flex;
   align-items: center;
   gap: 1rem;
