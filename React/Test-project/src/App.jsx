@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      {/* Header Section */}
+      {/* Header section */}
       <header className="header">
         <div className="logo-section">
           <a href="https://vite.dev" target="_blank">
